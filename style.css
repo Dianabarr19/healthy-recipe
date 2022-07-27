@@ -1,0 +1,41 @@
+img {
+  height:150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #2C3333;
+}
+
+h2 {
+  color: #2C3333;
+}
+
+.description {
+  font-size: 20px;
+}
+
+#cook-time {
+  font-weight: bold;
+}
+
+.ingredients li {
+  list-style: square;
+}
+
+p, .time {
+  color: gray;
+}
+
+.external-link {
+  color: SeaGreen;
+}
+
+* {
+  font-family: Helvetica;
+  background-color: #F5EDDC;
+}
